@@ -1,7 +1,7 @@
 # 2Y_ML_project8
 анализ датасета вин.
 
-рабочий нотбук: miniproject8_py39_.ipynb
+рабочий нотбук: miniproject8_py39.ipynb
 
 визуализация классов и границы деления: snapshot3.png
 
